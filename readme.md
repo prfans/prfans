@@ -9,8 +9,8 @@
 
 如果访问速度慢，请移步[gitee仓库](https://gitee.com/prfans).
 
-<div> <a align="left" href="https://info.flagcounter.com/BTu7"><img align="right" src="https://s11.flagcounter.com/count2/BTu7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> 
+<div> <a href="https://info.flagcounter.com/BTu7"><img align="left" src="https://s11.flagcounter.com/count2/BTu7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> 
     &nbsp; 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prfans&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prfans&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=prfans&theme=xcode" /> </div> -->
 <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=prfans&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
