@@ -10,5 +10,7 @@
 如果访问速度慢，请移步[gitee仓库](https://gitee.com/prfans).
 
 <a href="https://info.flagcounter.com/BTu7"><img src="https://s11.flagcounter.com/count2/BTu7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-    
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prfans&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=prfans&theme=xcode" /> </div>
